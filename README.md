@@ -12,10 +12,10 @@ The data set used in this project was taken from Kaggle and included 768 example
 **Objectives**
 
 
-Data gathering
-Descriptive Analysis
-Data Visualizations
-Data Preprocessing
-Data Modelling
-Model Evaluation
-Model Deployment
+- Data gathering
+- Descriptive Analysis
+- Data Visualizations
+- Data Preprocessing
+- Data Modelling
+- Model Evaluation
+- Model Deployment

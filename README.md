@@ -15,6 +15,6 @@ The data set used in this project was taken from Kaggle and included 768 example
 * Descriptive Analysis
 * Data Visualizations
 * Data Preprocessing
-* Data Modelling
+* Data Modeling
 * Model Evaluation
 * Model Deployment

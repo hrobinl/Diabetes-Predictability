@@ -11,6 +11,7 @@ The data set used in this project was taken from Kaggle and included 768 example
 
 **Objectives**
 
+
 * Data gathering
   
 
@@ -18,7 +19,7 @@ The data set used in this project was taken from Kaggle and included 768 example
 
 
 * Descriptive Analysis
-  
+
 
 ![image](https://github.com/hrobinl/Diabetes-Predictability/assets/135649789/842a6d28-520a-4b22-be68-56c06548ab5b)
 

@@ -14,13 +14,13 @@ The data set used in this project was taken from Kaggle and included 768 example
 * Data gathering
   
 
-  ![image](https://github.com/hrobinl/Diabetes-Predictability/assets/135649789/7340812b-6f83-4960-ae67-210c5bed1484)
+![image](https://github.com/hrobinl/Diabetes-Predictability/assets/135649789/7340812b-6f83-4960-ae67-210c5bed1484)
 
 
 * Descriptive Analysis
-* 
+  
 
-  ![image](https://github.com/hrobinl/Diabetes-Predictability/assets/135649789/842a6d28-520a-4b22-be68-56c06548ab5b)
+![image](https://github.com/hrobinl/Diabetes-Predictability/assets/135649789/842a6d28-520a-4b22-be68-56c06548ab5b)
 
 * Data Visualizations
   

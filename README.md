@@ -51,3 +51,17 @@ The data set used in this project was taken from Kaggle and included 768 example
 
 ![image](https://github.com/hrobinl/Diabetes-Predictability/assets/135649789/064bf4ef-531f-4e06-9da3-b23ab9894506)
 
+
+
+References: 
+
+Chang, Victor et al. “Pima Indians diabetes mellitus classification based on machine learning (ML) algorithms.” Neural computing & applications, 1-17. 24 Mar. 2022, doi:10.1007/s00521-022-07049-z
+
+
+Collier, Andrew, et al. "Relationship of skin thickness to duration of diabetes, glycemic control, and diabetic complications in male IDDM patients." Diabetes Care 12.5 (1989): 309-312.
+
+
+ACCORD Study Group. "Effects of intensive blood-pressure control in type 2 diabetes mellitus." New England Journal of Medicine 362.17 (2010): 1575-1585.
+
+
+M C Marshall, Diabetes in African Americans, Postgraduate Medical Journal, Volume 81, Issue 962, December 2005, Pages 734–740, https://doi.org/10.1136/pgmj.2004.028274
